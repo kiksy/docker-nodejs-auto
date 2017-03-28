@@ -1,0 +1,13 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "A minimal NodeJS project config for Docker that restarts automatically on code changes",
+  "author": "Kieron Howard",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon -L app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"	
+  }
+}
