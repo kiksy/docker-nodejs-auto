@@ -1,5 +1,5 @@
 # docker-nodejs-auto
-A minimal NodeJS project config for Docker that restarts automatically on code changes
+A minimal Express NodeJS project config for Docker that restarts automatically on code changes
 Designed to work with Windows.
 
 ## Usage
